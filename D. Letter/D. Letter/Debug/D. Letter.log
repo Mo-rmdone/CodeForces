@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mohamed\source\repos\d. letter\d. letter\source.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\source\repos\d. letter\d. letter\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\source\repos\d. letter\d. letter\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  D. Letter.vcxproj -> C:\Users\Mohamed\source\repos\D. Letter\Debug\D. Letter.exe
